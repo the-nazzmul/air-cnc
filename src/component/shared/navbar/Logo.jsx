@@ -4,7 +4,6 @@ import logo from "../../../assets/images/logo.png";
 const Logo = () => {
   return (
     <Link to="/">
-      {" "}
       <img
         className="hidden md:block"
         src={logo}
